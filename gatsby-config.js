@@ -41,5 +41,6 @@ module.exports = {
         icon: require.resolve('./src/images/favicon.png'),
       },
     },
+    `gatsby-plugin-netlify-cms`,
   ],
 }
